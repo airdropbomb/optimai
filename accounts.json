@@ -1,0 +1,26 @@
+[
+  {
+    "refreshToken": "YOUR_TOKEN_HERE",
+    "browser_type": "chrome",
+    "registerPayload": "PAYLOAD_FROM_CHROME",
+    "uptimePayload": "UPTIME_FROM_CHROME"
+  },
+  {
+    "refreshToken": "YOUR_TOKEN_HERE",
+    "browser_type": "edge",
+    "registerPayload": "PAYLOAD_FROM_EDGE",
+    "uptimePayload": "UPTIME_FROM_EDGE"
+  },
+  {
+    "refreshToken": "YOUR_TOKEN_HERE",
+    "browser_type": "brave",
+    "registerPayload": "PAYLOAD_FROM_BRAVE",
+    "uptimePayload": "UPTIME_FROM_BRAVE"
+  },
+  {
+    "refreshToken": "YOUR_TOKEN_HERE",
+    "browser_type": "opera",
+    "registerPayload": "PAYLOAD_FROM_OPERA",
+    "uptimePayload": "UPTIME_FROM_OPERA"
+  }
+]
